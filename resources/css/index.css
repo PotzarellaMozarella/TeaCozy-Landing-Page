@@ -92,7 +92,6 @@ li a:hover {
     margin: 0px;
     padding: 0px;
     border: 0px;
-    z-index: 500;
   }
 .banner-text {
     color: seashell;
@@ -179,7 +178,6 @@ img {
   background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg'); 
     background-repeat: no-repeat;
     background-position: center;
-      z-index: 500;
   height: 500px;
   width: 1200px;
   display: flex;
