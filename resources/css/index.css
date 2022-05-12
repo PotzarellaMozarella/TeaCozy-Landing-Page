@@ -81,7 +81,7 @@ li a:hover {
     justify-content: center;
   }
 .banner {
-    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg'); 
+    background-image: url('TeaCozyProject/resources/images/img-mission-background.jpeg'); 
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
@@ -175,7 +175,7 @@ img {
 }
 
 .locationbanner {
-  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg'); 
+  background-image: url('TeaCozyProject/resources/images/img-locations-background.jpeg'); 
     background-repeat: no-repeat;
     background-position: center;
   height: 500px;
