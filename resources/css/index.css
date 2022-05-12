@@ -82,6 +82,8 @@ li a:hover {
   }
 .banner {
     background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
     height: 700px;
     width: 1200px;
     display: flex;
@@ -174,6 +176,8 @@ img {
 
 .locationbanner {
   background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
   height: 500px;
   width: 1200px;
   display: flex;
